@@ -183,7 +183,7 @@ Host starts session
 ## Optimizable problems
 
 - Solve car objects overlapping problem
-- Build scalable map and road structure
+- Build scalable and realistic map structure
 - Use a faster shortest path algorithm
 - Add a database 
 
