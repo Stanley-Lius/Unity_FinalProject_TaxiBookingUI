@@ -155,6 +155,10 @@ Assets/
 
 Use **ParrelSync** (`Window > ParrelSync > Clones Manager`) to open a second editor instance and join as **Client**.
 
+### Run .exe file
+
+If you just want to test the results, execute the **final.exe**.
+
 ---
 
 ## Gameplay Flow
