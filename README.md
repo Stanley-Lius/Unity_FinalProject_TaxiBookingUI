@@ -180,6 +180,13 @@ Host starts session
   Clients see path + status via RPC sync
 ```
 
+## Optimizable problems
+
+- Solve car objects overlapping problem
+- Build scalable map and road structure
+- Use a faster shortest path algorithm
+- Add a database 
+
 ---
 
 ## License
